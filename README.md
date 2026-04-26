@@ -11,5 +11,3 @@ Proyecto WinForms (.NET 8) con un menú principal para acceder a 30 formularios.
 - `MenuForm.cs`: menú principal.
 - `Exercise1Form.cs` a `Exercise30Form.cs`: ejercicios separados.
 - `BaseExerciseForm.cs`: formulario base para estilo y controles.
-
-Nota: El PDF subido contiene las instrucciones en imágenes. Se tomaron los ejercicios 1 al 30 visibles en el documento.
